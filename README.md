@@ -93,7 +93,9 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=HwangHyeongjin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HwangHyeongjin&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HwangHyeongjin&theme=tokyonight" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HwangHyeongjin&theme=tokyonight" width="49%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HwangHyeongjin&theme=tokyonight&utcOffset=9" width="49%" />
 
 <br/><br/>
 
