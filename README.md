@@ -76,17 +76,17 @@
 
 ## 📌 Projects
 
-| 프로젝트 | 기간 | 내용 | 역할 | 링크 |
-|:---|:---:|:---:|:---:|:---:|
-| **Node** | 2024.07 ~ 2024.11 | YOLO를 활용한 치매 예방 및 증상 완화·기록 서비스 | 백엔드 | [GitHub](https://github.com/Node-Hackathon/Node_Backend) |
-| **멋쟁이사자처럼 13기<br/>메인 & 어플라이 페이지** | 2025.01 ~ 2025.02 | 강남대 멋사 13기 소개 및 지원 페이지 · 회원가입 100명+ 실사용 | 팀장 · 기획 · 백엔드 | [GitHub](https://github.com/likelionknu/Likelion13-BE) |
-| **도망가자** | 2025.04 ~ 2025.05 | 서울특별시 공공데이터를 활용한 대피소 안내 앱 | 팀장 · 백엔드 | [GitHub](https://github.com/RunawayKNU/BE) |
-| **Knock** | 2025.07 ~ 2025.11 | One Class SVM 기반 전세사기 예방 서비스 | 팀장 · 기획 · 백엔드 | [GitHub](https://github.com/Hackathon-ROKANF/Knock-BE) |
-| **멋쟁이사자처럼 14기<br/>메인 & 어플라이 페이지** | 2026.01 ~ 2026.02 | 강남대 멋사 14기 소개 및 지원 페이지 · 회원가입 150명+ 실사용 | 팀장 · 기획 · 문서화 | [GitHub](https://github.com/likelionknu/apply-page-server) |
-| **멋쟁이사자처럼 14기<br/>E-Campus** | 2026.01 ~<br/>운영 중 | 동아리 자체 학습 관리(E-Campus) 서비스 · 현재 실사용 중 | 팀장 · 기획 · 문서화 | [GitHub](https://github.com/likelionknu/ecampus-fe) |
-| **멋쟁이사자처럼 14기<br/>MSA Project** | 2026.05 ~<br/>개발 중 | 동아리 분산 서비스를 하나로 묶는 MSA 기반 종합 포털 | 팀장 · 기획 · Portal 백엔드 | [GitHub](https://github.com/likelionknu/LIKELION-APPLY-MSA) |
-| **NOVA** | 2026.06 ~<br/>개발 중 | 외교부 공공데이터와 AI를 결합해 해외 정보를 쉽게 제공하는 서비스 · 외교부 공공데이터 활용 공모전 참가 | 팀장 · 기획 · 백엔드 | 비공개 |
-| **너울 Nuol** | 2026.06 ~<br/>개발 중 | AI 기반 웹툰 취향 분석 및 추천 서비스 | 개인 프로젝트 | [GitHub](https://github.com/Project-Nuol) |
+| <img width="30" height="0"> 프로젝트 명 <img width="30" height="0"> | 개발 기간 | <img width="100" height="0"> 내용 <img width="100" height="0"> | 역할 | 링크 |
+|:---:|:---:|:---:|:---:|:---:|
+| **Node** | 2024.07 ~ 2024.11 | YOLO를 활용한 치매 예방 및 증상 완화·기록 서비스 | BE, DE | [GitHub](https://github.com/Node-Hackathon/Node_Backend) |
+| **강남대 멋사 13기<br>메인 & 어플라이** | 2025.01 ~ 2025.02 | 강남대 멋사 13기 소개 및 지원 페이지 · 회원가입 100명+ 실사용 | PM · BE | [GitHub](https://github.com/likelionknu/Likelion13-BE) |
+| **도망가자** | 2025.04 ~ 2025.05 | 서울특별시 공공데이터를 활용한 대피소 안내 앱 | PM · BE | [GitHub](https://github.com/RunawayKNU/BE) |
+| **Knock** | 2025.07 ~ 2025.11 | One Class SVM 기반 전세사기 예방 서비스 | PM · BE · DE | [GitHub](https://github.com/Hackathon-ROKANF/Knock-BE) |
+| **강남대 멋사 14기<br>메인 & 어플라이** | 2026.01 ~ 2026.02 | 강남대 멋사 14기 소개 및 지원 페이지 · 회원가입 150명+ 실사용 | PM | [GitHub](https://github.com/likelionknu/apply-page-server) |
+| **강남대 멋사 14기<br>E-Campus** | 2026.01 ~<br>운영 중 | 동아리 자체 학습 관리(E-Campus) 서비스 · 현재 실사용 중 | PM | [GitHub](https://github.com/likelionknu/ecampus-fe) |
+| **강남대 멋사 14기<br>MSA Project** | 2026.05 ~<br>개발 중 | 동아리 분산 서비스를 하나로 묶는 MSA 기반 종합 포털 | PM · Portal BE | [GitHub](https://github.com/likelionknu/LIKELION-APPLY-MSA) |
+| **NOVA** | 2026.06 ~<br>개발 중 | 외교부 공공데이터와 AI를 결합해 해외 정보를 쉽게 제공하는 서비스<br/>외교부 공공데이터 활용 공모전 참가 | PM · BE | 비공개 |
+| **너울(Nuol)** | 2026.06 ~<br>개발 중 | AI 기반 웹툰 취향 분석 및 추천 서비스 | PM · Full-stack | [GitHub](https://github.com/Project-Nuol) |
 
 <br/>
 
