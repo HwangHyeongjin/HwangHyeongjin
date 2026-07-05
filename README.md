@@ -21,7 +21,7 @@
 ## 🦁 Activities
 
 | 기간 | 활동 |
-|:---:|:---|
+|:---:|:---:|
 | 2024.03 ~ 2024.12 | 강남대학교 멋쟁이사자처럼 12기 **백엔드 아기사자** |
 | 2025.01 ~ 2025.12 | 강남대학교 멋쟁이사자처럼 13기 **대표 & 백엔드 운영진** |
 | 2025.01 ~ 2025.12 | 멋쟁이사자처럼 대학 **중앙운영단 운영부** |
@@ -39,7 +39,7 @@
 ## 🏆 Awards
 
 | 수상일 | 수상명 | 프로젝트 |
-|:---:|:---|:---:|
+|:---:|:---:|:---:|
 | 2024-2 | 강남대학교 소프트웨어학술제 우수상 (3위) | Node |
 | 2025-1 | 강남대학교 컴퓨터공학부 학술제 우수상 (3위) | 도망가자 |
 | 2025-1 | 강남대학교 컴퓨터공학부 동아리경진대회 3위 | 멋쟁이사자처럼 |
@@ -66,7 +66,7 @@
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 
-#### Planning & Collaboration
+#### Collaboration&Etc
 
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 
@@ -77,16 +77,16 @@
 ## 📌 Projects
 
 | 프로젝트 | 기간 | 내용 | 역할 | 링크 |
-|:---|:---:|:---|:---:|:---:|
+|:---|:---:|:---:|:---:|:---:|
 | **Node** | 2024.07 ~ 2024.11 | YOLO를 활용한 치매 예방 및 증상 완화·기록 서비스 | 백엔드 | [GitHub](https://github.com/Node-Hackathon/Node_Backend) |
 | **멋쟁이사자처럼 13기<br/>메인 & 어플라이 페이지** | 2025.01 ~ 2025.02 | 강남대 멋사 13기 소개 및 지원 페이지 · 회원가입 100명+ 실사용 | 팀장 · 기획 · 백엔드 | [GitHub](https://github.com/likelionknu/Likelion13-BE) |
 | **도망가자** | 2025.04 ~ 2025.05 | 서울특별시 공공데이터를 활용한 대피소 안내 앱 | 팀장 · 백엔드 | [GitHub](https://github.com/RunawayKNU/BE) |
 | **Knock** | 2025.07 ~ 2025.11 | One Class SVM 기반 전세사기 예방 서비스 | 팀장 · 기획 · 백엔드 | [GitHub](https://github.com/Hackathon-ROKANF/Knock-BE) |
 | **멋쟁이사자처럼 14기<br/>메인 & 어플라이 페이지** | 2026.01 ~ 2026.02 | 강남대 멋사 14기 소개 및 지원 페이지 · 회원가입 150명+ 실사용 | 팀장 · 기획 · 문서화 | [GitHub](https://github.com/likelionknu/apply-page-server) |
-| **멋쟁이사자처럼 14기<br/>E-Campus** | 2026.01 ~ 운영 중 | 동아리 자체 학습 관리(E-Campus) 서비스 · 현재 실사용 중 | 팀장 · 기획 · 문서화 | [GitHub](https://github.com/likelionknu/ecampus-fe) |
-| **멋쟁이사자처럼 14기<br/>MSA Project** | 2026.05 ~ 개발 중 | 동아리 분산 서비스를 하나로 묶는 MSA 기반 종합 포털 | 팀장 · 기획 · Portal 백엔드 | [GitHub](https://github.com/likelionknu/LIKELION-APPLY-MSA) |
-| **NOVA** | 2026.06 ~ 개발 중 | 외교부 공공데이터와 AI를 결합해 해외 정보를 쉽게 제공하는 서비스 · 외교부 공공데이터 활용 공모전 참가 | 팀장 · 기획 · 백엔드 | 비공개 |
-| **너울 Nuol** | 2026.06 ~ 개발 중 | AI 기반 웹툰 취향 분석 및 추천 서비스 | 개인 프로젝트 | [GitHub](https://github.com/Project-Nuol) |
+| **멋쟁이사자처럼 14기<br/>E-Campus** | 2026.01 ~<br/>운영 중 | 동아리 자체 학습 관리(E-Campus) 서비스 · 현재 실사용 중 | 팀장 · 기획 · 문서화 | [GitHub](https://github.com/likelionknu/ecampus-fe) |
+| **멋쟁이사자처럼 14기<br/>MSA Project** | 2026.05 ~<br/>개발 중 | 동아리 분산 서비스를 하나로 묶는 MSA 기반 종합 포털 | 팀장 · 기획 · Portal 백엔드 | [GitHub](https://github.com/likelionknu/LIKELION-APPLY-MSA) |
+| **NOVA** | 2026.06 ~<br/>개발 중 | 외교부 공공데이터와 AI를 결합해 해외 정보를 쉽게 제공하는 서비스 · 외교부 공공데이터 활용 공모전 참가 | 팀장 · 기획 · 백엔드 | 비공개 |
+| **너울 Nuol** | 2026.06 ~<br/>개발 중 | AI 기반 웹툰 취향 분석 및 추천 서비스 | 개인 프로젝트 | [GitHub](https://github.com/Project-Nuol) |
 
 <br/>
 
