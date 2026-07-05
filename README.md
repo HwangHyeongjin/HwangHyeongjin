@@ -86,7 +86,7 @@
 | **멋쟁이사자처럼 14기<br/>E-Campus** | 2026.01 ~ 운영 중 | 동아리 자체 학습 관리(E-Campus) 서비스 · 현재 실사용 중 | 팀장 · 기획 · 문서화 | [GitHub](https://github.com/likelionknu/ecampus-fe) |
 | **멋쟁이사자처럼 14기<br/>MSA Project** | 2026.05 ~ 개발 중 | 동아리 분산 서비스를 하나로 묶는 MSA 기반 종합 포털 | 팀장 · 기획 · Portal 백엔드 | [GitHub](https://github.com/likelionknu/LIKELION-APPLY-MSA) |
 | **NOVA** | 2026.06 ~ 개발 중 | 외교부 공공데이터와 AI를 결합해 해외 정보를 쉽게 제공하는 서비스 · 외교부 공공데이터 활용 공모전 참가 | 팀장 · 기획 · 백엔드 | 비공개 |
-| **너울 Nuol** | 2026.06 ~ 개발 중 | AI 기반 웹툰 취향 분석 및 추천 서비스 | 개인 프로젝트<br/>(기획 · BE · AI) | [GitHub](https://github.com/Project-Nuol) |
+| **너울 Nuol** | 2026.06 ~ 개발 중 | AI 기반 웹툰 취향 분석 및 추천 서비스 | 개인 프로젝트 | [GitHub](https://github.com/Project-Nuol) |
 
 <br/>
 
