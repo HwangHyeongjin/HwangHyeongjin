@@ -81,7 +81,7 @@
 | **Node** | 2024.07 ~ 2024.11 | YOLO를 활용한 치매 예방 및 증상 완화·기록 서비스 | 백엔드 | [GitHub](https://github.com/Node-Hackathon/Node_Backend) |
 | **멋쟁이사자처럼 13기<br/>메인 & 어플라이 페이지** | 2025.01 ~ 2025.02 | 강남대 멋사 13기 소개 및 지원 페이지 · 회원가입 100명+ 실사용 | 팀장 · 기획 · 백엔드 | [GitHub](https://github.com/likelionknu/Likelion13-BE) |
 | **도망가자** | 2025.04 ~ 2025.05 | 서울특별시 공공데이터를 활용한 대피소 안내 앱 | 팀장 · 백엔드 | [GitHub](https://github.com/RunawayKNU/BE) |
-| **Knock** | 2025.07 ~ 2025.11 | AI 기반 전세사기 예방 서비스 | 팀장 · 기획 · 백엔드 | [GitHub](https://github.com/Hackathon-ROKANF/Knock-BE) |
+| **Knock** | 2025.07 ~ 2025.11 | One Class SVM 기반 전세사기 예방 서비스 | 팀장 · 기획 · 백엔드 | [GitHub](https://github.com/Hackathon-ROKANF/Knock-BE) |
 | **멋쟁이사자처럼 14기<br/>메인 & 어플라이 페이지** | 2026.01 ~ 2026.02 | 강남대 멋사 14기 소개 및 지원 페이지 · 회원가입 150명+ 실사용 | 팀장 · 기획 · 문서화 | [GitHub](https://github.com/likelionknu/apply-page-server) |
 | **멋쟁이사자처럼 14기<br/>E-Campus** | 2026.01 ~ 운영 중 | 동아리 자체 학습 관리(E-Campus) 서비스 · 현재 실사용 중 | 팀장 · 기획 · 문서화 | [GitHub](https://github.com/likelionknu/ecampus-fe) |
 | **멋쟁이사자처럼 14기<br/>MSA Project** | 2026.05 ~ 개발 중 | 동아리 분산 서비스를 하나로 묶는 MSA 기반 종합 포털 | 팀장 · 기획 · Portal 백엔드 | [GitHub](https://github.com/likelionknu/LIKELION-APPLY-MSA) |
