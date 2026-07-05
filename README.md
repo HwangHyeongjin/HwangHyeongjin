@@ -91,16 +91,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HwangHyeongjin&theme=tokyonight&v=2" width="100%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HwangHyeongjin&theme=tokyonight" width="49%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HwangHyeongjin&theme=tokyonight&utcOffset=9" width="49%" />
-
-<br/><br/>
-
----
-
 ## 📫 Contact
 
 <!-- 이메일 주소를 넣어주세요 -->
