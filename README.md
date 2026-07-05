@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- 헤더 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2f81f7,100:1a1b27&height=220&section=header&text=Hwanghyeongjin&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Product%20Planner&descSize=20&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2f81f7,100:1a1b27&height=220&section=header&text=Hwanghyeongjin&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Project%20Manager&descSize=20&descAlignY=58" width="100%" />
 
 <!-- 타이핑 인트로 -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=520&lines=%EC%84%9C%EB%B2%84%EB%A5%BC+%EB%A7%8C%EB%93%9C%EB%8A%94+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90;%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC+%EA%B7%B8%EB%A6%AC%EB%8A%94+%EA%B8%B0%ED%9A%8D%EC%9E%90;Backend+%2B+Planning+%3D+%F0%9F%9A%80" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=520&lines=%EA%B5%AC%EC%A1%B0%EB%A5%BC+%EC%9D%B4%ED%95%B4%ED%95%98%EA%B3%A0+%EA%B0%9C%EC%84%A0%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC+%EA%B7%B8%EB%A6%AC%EB%8A%94+%EA%B8%B0%ED%9A%8D%EC%9E%90;Backend+%2B+Planning+%3D+%F0%9F%9A%80" alt="typing intro" />
 
 <br/><br/>
 
