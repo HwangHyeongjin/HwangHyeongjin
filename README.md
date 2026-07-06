@@ -76,7 +76,7 @@
 
 ## 📌 Projects
 
-| <img width="20" height="0"> 프로젝트 명 <img width="20" height="0"> | 개발 기간 | <img width="100" height="0"> 내용 <img width="100" height="0"> | 역할 | 링크 |
+| <img width="10" height="0"> 프로젝트 명 <img width="10" height="0"> | 개발 기간 | <img width="100" height="0"> 내용 <img width="100" height="0"> | <img width="10" height="0">역할<img width="10" height="0"> | 링크 |
 |:---:|:---:|:---:|:---:|:---:|
 | **Node** | 2024.07 ~ 2024.11 | YOLO를 활용한 치매 예방 및 증상 완화·기록 서비스 | BE, DE | [GitHub](https://github.com/Node-Hackathon/Node_Backend) |
 | **강남대 멋사 13기<br>메인 & 어플라이** | 2025.01 ~ 2025.02 | 강남대 멋사 13기 소개 및 지원 페이지 · 회원가입 100명+ 실사용 | PM · BE | [GitHub](https://github.com/likelionknu/Likelion13-BE) |
