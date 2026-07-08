@@ -85,7 +85,7 @@
 | **강남대 멋사 14기<br>메인 & 어플라이** | 2026.01 ~ 2026.02 | 강남대 멋사 14기 소개 및 지원 페이지 · 회원가입 150명+ 실사용 | PM | [GitHub](https://github.com/likelionknu/apply-page-server) |
 | **강남대 멋사 14기<br>E-Campus** | 2026.01 ~<br>운영 중 | 동아리 자체 학습 관리(E-Campus) 서비스 · 현재 실사용 중 | PM | [GitHub](https://github.com/likelionknu/ecampus-fe) |
 | **강남대 멋사 14기<br>MSA Project** | 2026.05 ~<br>개발 중 | 동아리 분산 서비스를 하나로 묶는 MSA 기반 종합 포털 | PM · Portal BE | [GitHub](https://github.com/likelionknu/LIKELION-APPLY-MSA) |
-| **NOVA** | 2026.06 ~<br>개발 중 | 외교부 공공데이터와 AI를 결합해 해외 정보를 쉽게 제공하는 서비스<br/>외교부 공공데이터 활용 공모전 참가 | PM · BE | 비공개 |
+| **NOVA** | 2026.06 ~<br>개발 중 | 외교부 공공데이터와 AI를 결합해 해외 정보를 쉽게 제공하는 서비스<br/>외교부 공공데이터 활용 공모전 참가 | PM · BE · AI | 비공개 |
 | **너울(Nuol)** | 2026.06 ~<br>개발 중 | AI 기반 웹툰 취향 분석 및 추천 서비스 | PM · Full-stack | [GitHub](https://github.com/Project-Nuol) |
 
 <br/>
